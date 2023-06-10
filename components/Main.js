@@ -4,11 +4,10 @@ export default function Main() {
       <div className="max-w-7xl mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 md:ml-24 pt-6 flex flex-col md:items-start md:text-left mb-40 items-center text-center">
           <h1 className="mb-5 sm:text-6xl text-5xl items-center Avenir xl:w-2/2 text-gray-900">
-            We are making Stunning Websites
+            Want To boost your social media Prescence
           </h1>
           <p className="mb-4 xl:w-3/4 text-gray-600 text-lg">
-            nine4 is a free to use website template for websites made with
-            Next.js and styled with Tailwind CSS
+            DOB is an agency that prioritize customer satisfaction Thruogh Social media marketing
           </p>
           <div className="flex justify-center">
             <a
@@ -31,7 +30,7 @@ export default function Main() {
         <div className="container px-5 mx-auto lg:px-24 ">
           <div className="flex flex-col w-full mb-4 text-left lg:text-center">
             <h1 className="mb-8 text-2xl Avenir font-semibold text-black">
-              Trusted by top-tier product companies
+              Satisfied Customers
             </h1>
           </div>
           <div className="grid grid-cols-2 gap-16 mb-16 text-center lg:grid-cols-4">
@@ -67,11 +66,11 @@ export default function Main() {
         </div>
       </section>
       <div className="grr max-w-7xl pt-20 mx-auto text-center">
-        <h1 className="mb-8 text-6xl Avenir font-semibold text-gray-900">
-          Less code, less effort.
+        <h1 className="mb-8 text-4xl Avenir font-semibold text-gray-900">
+          Advertise With Us With Less Effort
         </h1>
         <h1 className="mb-8 text-2xl Avenir font-semibold text-gray-600 text-center">
-          Minify your CSS with Tailwind's built in PostCSS support.
+        Taking your business to the next level
         </h1>
         <div className="container flex flex-col items-center justify-center mx-auto rounded-lg ">
           <img
@@ -91,11 +90,11 @@ export default function Main() {
               Enter your email address and get our newsletters straight away.
             </h1>
             <input
-              placeholder="jack@example.com"
+              placeholder="dob@gmail.com"
               name="email"
               type="email"
               autoComplete="email"
-              className="border border-gray-600 w-1/4 pr-2 pl-2 py-3 mt-2 rounded-md text-gray-800 font-semibold hover:border-gray-900"
+              className="border border-gray-600 w-2/4 pr-2 pl-2 py-3 mt-2 rounded-md text-gray-800 font-semibold hover:border-gray-900"
             ></input>{" "}
             <a
               className="inline-flex items-center px-14 py-3 mt-2 ml-2 font-medium text-white transition duration-500 ease-in-out transform bg-transparent border rounded-lg bg-gray-900"
